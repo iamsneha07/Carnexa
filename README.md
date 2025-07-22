@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚗 CarNexa - AI Car Marketplace
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-Database%2FAuth-green?logo=supabase)](https://supabase.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-blue?logo=prisma)](https://www.prisma.io/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-blue?logo=tailwindcss)](https://tailwindcss.com/)
+[![ArcJet](https://img.shields.io/badge/ArcJet-Analytics%20%2F%20Security-purple)](https://arcjet.com/)
 
-First, run the development server:
+## 🧠 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**CarNexa** is a modern **AI-powered car marketplace** built with a powerful tech stack and a sleek design. It allows users to **explore, compare, test drive, and book cars online** — streamlining the car buying experience. It’s designed for both **customers and dealers** to manage listings and interactions efficiently.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌐 **Live Demo**: [https://carnexa.vercel.app](https://carnexa.vercel.app)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🔍 **Smart Car Discovery** with filtering and searching
+- 📅 **Book Test Drives** in real-time with available time slots
+- 📸 **AI Car Image Generation**
+- 🔐 **Authentication & Authorization** using Supabase
+- 👤 **Role-based dashboards** (Admin / User)
+- 🧾 **Car Management Panel** for dealers (Add / Edit / Delete cars)
+- 📊 **Real-time Analytics & Activity Monitoring** (ArcJet)
+- ⚡ Fully **responsive UI** built with Tailwind CSS
+- 🌍 **Deployed on Vercel** for high performance
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+| Frontend    | Backend      | Database     | Tools & Services  |
+|-------------|--------------|--------------|-------------------|
+| Next.js 13+ | Supabase     | Supabase SQL | Prisma ORM        |
+| React       | Server Actions |            | Tailwind CSS      |
+| TypeScript  | API Routes   |              | ArcJet Analytics  |
+| ShadCN UI   |              |              | Vercel Deployment |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 Future Goals
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Here’s what’s coming next for **CarNexa**:
 
-## Deploy on Vercel
+- 🧠 Integrate **AI Chat Assistant** to recommend cars based on user preferences
+- 💳 Implement **payment gateway** for advance booking and buying
+- 🌍 Add **multilingual support** for global accessibility
+- 📱 Launch **mobile app version** (React Native)
+- 🛠 Enhance **admin analytics dashboard** with visualizations
+- 🧪 Write full test coverage using **Jest** and **Playwright**
+- 📤 Enable **CSV/Excel export** for car inventory data
+- 📸 Add **car video previews** and 360° views
+- 🚀 Deploy to production with **custom domain**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧑‍💻 Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Sneha Deb**  
+👩‍💻 B.Tech in Computer Science | Passionate Full Stack Developer  
+📧 Email: [debsneha357@gmail.com](mailto:debsneha357@gmail.com)  
+🌐 Portfolio: _Coming Soon_  
+🔗 LinkedIn: [linkedin.com/in/snehadeb33](https://www.linkedin.com/in/snehadeb33)
