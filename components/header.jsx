@@ -16,7 +16,7 @@ const Header = async ({ isAdminPage = false }) => {
       <nav className="mx-auto px-4 py-4 flex items-center justify-between">
         <Link href={isAdminPage ? "/admin" : "/"} className="flex">
           <Image
-            src={"/logo1.png"}
+            src={"/logo_new.png"}
             alt="Carnexa"
             width={300}
             height={300}
